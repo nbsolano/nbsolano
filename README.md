@@ -20,6 +20,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nbsolano/nbsolano/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 ---
 
 ## ⭐ GitHub Stats
